@@ -1,10 +1,7 @@
-# webdev_lab1
+
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  About me 
-</head>
+
 <body>
 
   <p> I play video games </p>

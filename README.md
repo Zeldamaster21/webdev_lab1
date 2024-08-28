@@ -1,6 +1,6 @@
 # webdev_lab1
 !DOCTYPE html>
-<html lang="en">
+<html>
 
  
 <p> About Daniel Felipe </p>

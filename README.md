@@ -1,10 +1,9 @@
 # webdev_lab1
 
-<!DOCTYPE html>
-<html lang="en">
+
+
 <head>
-  <meta charset="utf-8">
-  <title> 3 Things about me</title>
+   3 Things about me
 </head>
 <body>
   <p> I play video games </p>

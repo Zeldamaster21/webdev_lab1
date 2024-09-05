@@ -40,5 +40,7 @@
     <li>Use a basic text editor and other software tools to create web pages written in HTML, CSS, JavaScript, and jQuery.</li>
     <li>Deploy web pages to a Gethub using version control and Github Desktop.</li>
   </ul>
+
+  &auml; &ouml; &laquo; &reg;
 </body>
 </html>

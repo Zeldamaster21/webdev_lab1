@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Excerpts From Select Public Domain Books</title>
 </head>
 <body>
   <h1>Excerpts From Select Public Domain Books</h1>

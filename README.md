@@ -35,10 +35,10 @@
         <div><label>Steak <input type="checkbox" name="Food selection_field[]" value="Steak"</label></div>
          <div><label>Chicken <input type="checkbox" name="Food selection_field[]" value="Chicken"</label></div>
         <h4> Steak prefrence</h4>
-         <div><label>Rare <input type="checkbox" name="Steak prefrence_field[]" value="Rare"</label></div>
-         <div><label>Medium <input type="checkbox" name="Steak prefrence_field[]" value="Medium"</label></div>
-          <div><label>Well Done <input type="checkbox" name="Steak prefrence_field[]" value="Well Done"</label></div>
-          <div><label>none <input type="checkbox" name="Steak prefrence_field[]" value="none"</label></div>
+         <div><label>Rare <input type="checkbox" name="Steakprefrence_field[]" value="Rare"</label></div>
+         <div><label>Medium <input type="checkbox" name="Steakprefrence_field[]" value="Medium"</label></div>
+          <div><label>Well Done <input type="checkbox" name="Steakprefrence_field[]" value="Well Done"</label></div>
+          <div><label>none <input type="checkbox" name="Steakprefrence_field[]" value="none"</label></div>
         <h3>Comments</h3>
         <textarea name="comments_field"></textarea>
       </div>
@@ -48,4 +48,3 @@
   </form>
 </body>
 </html>
-

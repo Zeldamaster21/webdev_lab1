@@ -35,7 +35,7 @@
         <div><label>Steak <input type="checkbox" name="Food selection_field[]" value="Steak"</label></div>
          <div><label>Chicken <input type="checkbox" name="Food selection_field[]" value="Chicken"</label></div>
         <h4> Steak prefrence</h4>
-         <div><label>Rare <input type="checkbox" name="steakprefrence_field[]" value="rare"</label></div>
+         <div><label>Rare <input type="checkbox" name="available_field[]" value="rare"</label></div>
          <div><label>Medium <input type="checkbox" name="steakprefrence_field[]" value="medium"</label></div>
           <div><label>Well Done <input type="checkbox" name="steakprefrence_field[]" value="well Done"</label></div>
           <div><label>none <input type="checkbox" name="steakprefrence_field[]" value="none"</label></div>
